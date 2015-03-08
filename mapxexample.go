@@ -8,6 +8,7 @@ func main() {
 	salutationMap = make(map[string]string)
 
 	salutationMap["oldname"] = "azharuddin khan"
+	
 	myMap := map[string]string {
 		"name" : "azhar",
 	}
